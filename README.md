@@ -7,7 +7,7 @@ https://codeforces.com/blog/entry/68138#comment-650743
 [Tutorial] Non-trivial DP Tricks and Techniques
 https://codeforces.com/blog/entry/47764
 
-chicked mcnuget therom
+chicken mcnuget therom
 https://codeforces.com/blog/entry/118246
 
 [Tutorial] Math note — Möbius inversion 
