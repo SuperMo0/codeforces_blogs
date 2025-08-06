@@ -1,5 +1,7 @@
 # codeforces_blogs
 
+gcd lcm 
+https://medium.com/%40iamcrypticcoder/a-few-problems-to-remember-of-gcd-and-lcm-a4882cd81094
 
 DFS tree 
 https://codeforces.com/blog/entry/68138#comment-650743
