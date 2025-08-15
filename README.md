@@ -15,4 +15,8 @@ https://codeforces.com/blog/entry/118246
 [Tutorial] Math note — Möbius inversion 
 https://codeforces.com/blog/entry/53925
 
+General Tricks  https://codeforces.com/blog/entry/48417
+
+union of intervals with segment tree: https://codeforces.com/blog/entry/137300
+
 Geometry: 2D points and lines [Tutorial] https://codeforces.com/blog/entry/48122
